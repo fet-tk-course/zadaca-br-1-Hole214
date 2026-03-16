@@ -1,14 +1,21 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eAZLlGv8)
 # Git zadaca – branch, pull request & merge conflict
 
 Predmet: Razvoj telekomunikacijske programske podrške
 
 ## Student
 
-Ime i prezime:
+Ime i prezime: Edin Hodžić
 
-GitHub username:
+GitHub username: Hole214
 
 ---
+
+## Uvod
+
+Ja sam Edin Hodžić iz Brčkog, od oca Vahida i majke Begajete.
+Ljeti volim pecati, volim to raditi i uživo, ali i gledati Jeremy Wade-a kako to radi.
+Nadam se da ću uskoro prestati miješati predmete RTPP i Cloud.
 
 ## Opis zadatka
 
@@ -112,4 +119,4 @@ Repozitorij treba sadržavati:
 
 ---
 
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
