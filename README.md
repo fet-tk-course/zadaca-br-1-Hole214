@@ -72,7 +72,7 @@ conflict-test
 
 U ovom fajlu pronađite sljedeću rečenicu i izmijenite je:
 
-Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj programske telekomunikacijske podrške.
+Ovaj repo sadrži moj GitHub zadaću.
 
 Promijenite je u:
 
@@ -119,4 +119,4 @@ Repozitorij treba sadržavati:
 
 ---
 
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj programske telekomunikacijske podrške.
