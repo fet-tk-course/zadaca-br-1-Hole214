@@ -11,6 +11,12 @@ GitHub username: Hole214
 
 ---
 
+## Uvod
+
+Ja sam Edin Hodžić iz Brčkog, od oca Vahida i majke Begajete.
+Ljeti volim pecati, volim to raditi i uživo, ali i gledati Jeremy Wade-a kako to radi.
+Nadam se da ću uskoro prestati miješati predmete RTPP i Cloud.
+
 ## Opis zadatka
 
 Cilj ovog zadatka je da uvježbate osnovne Git operacije:
